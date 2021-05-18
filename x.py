@@ -1,3 +1,5 @@
 print("hello world")
 print("Welcome")
-print("Good luck")
+print("keep going it")
+print("good luck")
+
