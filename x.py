@@ -1,7 +1,7 @@
 print("hello world")
 print("Welcome")
 <<<<<<< ours
-print("keep going it")
+print("keep going ")
 
 =======
 print("effort")
