@@ -1,8 +1,8 @@
 print("hello world")
 print("Welcome")
-<<<<<<< HEAD
+<<<<<<< ours
 print("keep going it")
 
 =======
 print("effort")
->>>>>>> new
+>>>>>>> theirs
